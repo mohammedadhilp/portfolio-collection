@@ -58,7 +58,7 @@
 | Dale Larroder              | ![dalelarroder.com](https://user-images.githubusercontent.com/52998821/172965944-b25832f5-53a1-4833-a651-26d5ca0cdb20.png)                                                | [dalelarroder.com](https://dalelarroder.com)                                                                  | [GitHub](https://github.com/dlarroder/dalelarroder)                          | NextJS, Preact, TypeScript, Tailwind, MDX                                                                      |
 | Williams Samuel            | ![portfolio-williams](https://github.com/williamssam/My-Portfolio/raw/main/screenshot.jpg)                                                                                | [williamssam.netlify.app](https://williamssam.netlify.app/)                                                   | [GitHub](https://github.com/williamssam/My-Portfolio)                        | HTML, CSS, Javascript                                                                                          |
 | Guillaume Gouessan         | ![Guillaume Gouessan](https://user-images.githubusercontent.com/71810927/173070183-c0d30acf-2199-47a3-b0dd-919998e45e69.png)                                              | [guillaumegouessan.com](https://guillaumegouessan.com/)                                                       | [GitHub](https://github.com/superguigui/guillaumegouessan.com)               | GSAP, ThreeJS, JavaScript                                                                                      |
-     | None                                                                         | React, TypeScript, NextJS, TailwindCSS                                                                         |
+
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
